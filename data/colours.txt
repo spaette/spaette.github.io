@@ -1,0 +1,10 @@
+Awk        #c30e9b
+Csharp     #7355dd
+Elisp      #c065db
+Haskell    #5e5086
+Java       #b07219
+Julia      #a270ba
+Python     #3572A5
+Scheme     #1e4aec
+TeX        #3D6117
+TypeScript #3178c6
